@@ -1,0 +1,105 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ADEFD1FF;
+    background-image: url('img/');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+}
+
+.image-container {
+    text-align: center; /* Center the image */
+    margin-top: 20px; /* Adjust as needed */
+}
+
+.image-container img {
+    max-width: 100%; /* Make sure the image doesn't exceed its container */
+    height: auto; /* Maintain aspect ratio */
+}
+
+section img{
+    height: 50px;
+    
+}
+
+section a{
+    color: ;
+}
+
+section h3, p{
+    color: ;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container img{
+    border: 3px solid;
+}
+
+.section img{
+    background-size; cover;
+    background-repeat: no-repeat;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    margin-top: 3px solid blue;
+    margin-bottom: 3px solid blue;
+    color: #2b6dff;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    padding: 20px 0;
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+}
+
+footer {
+    background-color: #333; /* Set the background color as desired */
+    color: #fff; /* Set the text color as desired */
+    padding: 20px 0; /* Add padding to the top and bottom of the footer */
+    text-align: center; /* Center the text */
+}
+
+.footer-container {
+    width: 80%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the container */
+}
+
+.footer p{
+    text-align: center;
+    font-weight: bold;
+  }
+      
